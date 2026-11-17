@@ -20,7 +20,7 @@ The main objective is to explore pizza sales data and answer real-world business
 
 - **Database:** MySQL
 - **SQL Editor:** MySQL Workbench
-- **Dataset:** Maven Analytics – Pizza Sales Dataset
+- **Dataset Source:** Maven Analytics – Pizza Sales Dataset
 
 ## Dataset Description
 
